@@ -1,3 +1,5 @@
 # bookbot
 
-BookBot is my first [Boot.dev](https://www.boot.dev) project!
+BookBot is a text analytics tool that supports finding the frequency of characters in a text.
+
+## Contributing
